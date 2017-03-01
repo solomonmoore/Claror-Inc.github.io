@@ -1,1 +1,1 @@
-# Claror
+# http://Claror-Inc.github.io
