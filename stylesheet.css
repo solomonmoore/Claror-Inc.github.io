@@ -1,5 +1,10 @@
 body {
   font-family: 'Comic Sans MS';
-  background-color: #b7d1c4
+  background-color: #b7d1c4;
+  align: centre
 }
 
+img {
+  align: centre;
+  background-color: Purple
+}
