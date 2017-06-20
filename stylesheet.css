@@ -1,5 +1,7 @@
 body {
   font-family: 'Arial';
-  font-size: 1em;
   background-color: #0b7a5c
+}
+p {
+  font-size: 2em;
 }
