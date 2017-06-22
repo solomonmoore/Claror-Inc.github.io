@@ -4,10 +4,13 @@ body {
 }
 p {
   font-size: 1em;
+  color: #ffffffff;
 }
 ul {
   font-size: 1em;
+  color: #ffffffff;
 }
 ol {
   font-size: 1em;
+  color: #ffffffff;
 }
