@@ -1,16 +1,14 @@
 body {
   font-family: 'Arial';
+  colour: ffffffff;
   background-color: #676d6a
 }
 p {
   font-size: 1em;
-  color: #white;
 }
 ul {
   font-size: 1em;
-  color: #white;
 }
 ol {
   font-size: 1em;
-  color: #white;
 }
