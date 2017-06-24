@@ -1,6 +1,6 @@
 body {
   font-family: 'Coda';
-  color: #ffffffff;
+  color: #ffffff;
   background-color: #676d6a
 }
 p {
@@ -16,10 +16,10 @@ div {
   height: 100px;
   width: 200px;
   border-radius: 5px;
-  background-color: #69D2E7;
+  background-color: ##0019ff;
   text-align: center;
   color: #FFFFFF;
-  font-family: Verdana, Arial, Sans-Serif;
+  font-family: Verdana, Arial;
   font-style: normal;
-  opacity; 1;
+  opacity: 1;
 }
