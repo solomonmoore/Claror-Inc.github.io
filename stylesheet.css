@@ -19,7 +19,5 @@ div {
   background-color: ##0019ff;
   text-align: center;
   color: #FFFFFF;
-  font-family: Verdana, Arial;
-  font-style: normal;
-  opacity: 1;
+  font-family: Verdana, Arial, Sans-serif;
 }
