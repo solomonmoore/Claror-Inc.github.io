@@ -1,15 +1,7 @@
 $(document).ready(function() {
    $('div').mouseenter(function() {
-       $(this).animate({
-           height: '+=10px'
-       });
-   });
+       $(this).FadeTo(1, 'Fast')
+   })
    $('div').mouseleave(function() {
-       $(this).animate({
-           height: '-=10px'
-       }); 
-   });
-   $('div').click(function() {
-       $(this).toggle(1000);
-   }); 
-});
+       $(this).FadeTo(0.5, 'Fast')
+   })
